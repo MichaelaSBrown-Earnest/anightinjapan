@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: michaela.brown@earnest-agency.com
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: jekyllrb
 github_username: MichaelaSBrown-Earnest
 markdown: kramdown
